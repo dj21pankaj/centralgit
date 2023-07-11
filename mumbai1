@@ -1,4 +1,1 @@
-SELECT OrderID, ProductID, COUNT(*)
-FROM OrderDetails
-GROUP BY OrderID, ProductID
-HAVING COUNT(*) > 1
+pankaj desai
