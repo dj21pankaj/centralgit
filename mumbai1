@@ -1,4 +1,3 @@
-ls
 SELECT OrderID, ProductID, COUNT(*)
 FROM OrderDetails
 GROUP BY OrderID, ProductID
